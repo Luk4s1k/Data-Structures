@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SFMLTutor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake_modules\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFMLTutor">
+				<Option output="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/SFMLTutor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SFMLTutor"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SFMLTutor/fast">
+				<Option output="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/SFMLTutor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 SFMLTutor/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/Heap/Heap.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/Heap/Heap.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/List/List.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/List/List.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/Table/Array.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/Table/Array.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/App.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/App.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/DEFINITIONS.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/AssetManager.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/AssetManager.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/InputManager.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/InputManager.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/State.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/StateMachine.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/StateMachine.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/InputState.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/InputState.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.h">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/main.cpp">
+			<Option target="SFMLTutor"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake_modules/FindSFML.cmake">
+			<Option virtualFolder="CMake Files\cmake_modules\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
