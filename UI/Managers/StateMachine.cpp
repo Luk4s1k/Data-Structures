@@ -17,7 +17,7 @@ namespace lm{
             this->_states.pop();
 
             if(!this->_states.empty()){
-                this->_states.top()->Resume();
+                this->_states.top();
             }
 
             this->_isRemoving = false;
@@ -28,7 +28,7 @@ namespace lm{
                 if(this->_isReplacing){
                     this->_states.pop();
                 }else{
-                    this->_states.top()->Pause();
+                    this->_states.top();
                 }
             }
 

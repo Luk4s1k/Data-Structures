@@ -25,14 +25,14 @@ public:
     //// Deleting functions
     void pop_back(); // TODO; Add realisation
     void pop_front(); // TODO; Add realisation
-    void pop(int position); // TODO; Add realisation
+    void pop(); // TODO; Add realisation
 
     int* find(int value); // TODO; Add realisation
 
 
     bool is_empty() const;
     int getSize() const;
-    std::string outPutString() const; // For printing in the UI
+    std::string outPutString(); // For printing in the UI
 
     //// Operatots
     bool operator==(const Array& newInstance) const;

@@ -13,7 +13,6 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/StateMachine.cpp" "/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles/SFMLTutor.dir/UI/Managers/StateMachine.cpp.o"
   "/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/InputState.cpp" "/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.o"
   "/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.cpp" "/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o"
-  "/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.cpp" "/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o"
   "/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.cpp" "/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.o"
   "/Users/lukamitrovic/CLionProjects/SDiZO_1/main.cpp" "/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles/SFMLTutor.dir/main.cpp.o"
   )

@@ -140,12 +140,6 @@
 		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.h">
 			<Option target="SFMLTutor"/>
 		</Unit>
-		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.cpp">
-			<Option target="SFMLTutor"/>
-		</Unit>
-		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.h">
-			<Option target="SFMLTutor"/>
-		</Unit>
 		<Unit filename="/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.cpp">
 			<Option target="SFMLTutor"/>
 		</Unit>

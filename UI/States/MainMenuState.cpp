@@ -85,7 +85,7 @@ namespace lm{
             }
             if(this->_data->input.IsSpriteClicked(this->_arrayButton,sf::Mouse::Left,this->_data->window)){
                 std::cout << "go to array screen" << std::endl;
-                _data->machine.AddState(StateRef (new TableMenuState(this->_data)),true);
+                _data->machine.AddState(StateRef (new TableMenuState(this->_data)),false);
             }
             if(this->_data->input.IsSpriteClicked(this->_listButton,sf::Mouse::Left,this->_data->window)){
                 std::cout << "go to list screen" << std::endl;

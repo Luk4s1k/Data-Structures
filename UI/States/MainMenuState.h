@@ -15,7 +15,7 @@ namespace lm{
 
         void Init() ;
         void HandleInput();
-        void Update(float dt){}
+        void Update(){}
         void Draw(float dt);
         StateRef TableRef;
 

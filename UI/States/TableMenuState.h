@@ -11,19 +11,32 @@
 namespace lm{
     class TableMenuState : public State{
     public:
+        enum FunctionCall{
+            NONE,
+            CREATE,
+            PUSH,
+            PUSH_FRONT,
+            PUSH_BACK,
+            POP,
+            POP_FRONT,
+            POP_BACK,
+            FIND
+
+        };
 
         TableMenuState(AppDataRef data);
 
         void Init() ;
         void HandleInput();
-        void Update(float dt){}
+        void Update();
         void Draw(float dt);
         void printTable(Array &arrayToPrint);
 
     private:
         AppDataRef _data;
         Array array  = Array(5);
-        //std::string sourceFile;
+
+        FunctionCall funCall;
 
         sf::Sprite _pushButton;
         sf::Sprite _pushFrontButton;
@@ -38,11 +51,15 @@ namespace lm{
 
         sf::Sprite _createButton;
         sf::Sprite _printButton;
+        sf::Sprite _updateButton;
 
         sf::RectangleShape _leftField;
 
         sf::Text outPutTableText;
         sf::String outPutString;
+        sf::Font _font;
+
+
 
     };
 

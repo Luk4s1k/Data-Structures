@@ -386,33 +386,6 @@ UI/States/MainMenuState.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFMLTutor.dir/build.make CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.s
 .PHONY : UI/States/MainMenuState.cpp.s
 
-UI/States/SplashState.o: UI/States/SplashState.cpp.o
-
-.PHONY : UI/States/SplashState.o
-
-# target to build an object file
-UI/States/SplashState.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFMLTutor.dir/build.make CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o
-.PHONY : UI/States/SplashState.cpp.o
-
-UI/States/SplashState.i: UI/States/SplashState.cpp.i
-
-.PHONY : UI/States/SplashState.i
-
-# target to preprocess a source file
-UI/States/SplashState.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFMLTutor.dir/build.make CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.i
-.PHONY : UI/States/SplashState.cpp.i
-
-UI/States/SplashState.s: UI/States/SplashState.cpp.s
-
-.PHONY : UI/States/SplashState.s
-
-# target to generate assembly for a file
-UI/States/SplashState.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SFMLTutor.dir/build.make CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.s
-.PHONY : UI/States/SplashState.cpp.s
-
 UI/States/TableMenuState.o: UI/States/TableMenuState.cpp.o
 
 .PHONY : UI/States/TableMenuState.o
@@ -503,9 +476,6 @@ help:
 	@echo "... UI/States/MainMenuState.o"
 	@echo "... UI/States/MainMenuState.i"
 	@echo "... UI/States/MainMenuState.s"
-	@echo "... UI/States/SplashState.o"
-	@echo "... UI/States/SplashState.i"
-	@echo "... UI/States/SplashState.s"
 	@echo "... UI/States/TableMenuState.o"
 	@echo "... UI/States/TableMenuState.i"
 	@echo "... UI/States/TableMenuState.s"

@@ -3,16 +3,18 @@
 //
 
 #include "App.h"
-#include "States/SplashState.h"
 #include "States/MainMenuState.h"
 #include "States/TableMenuState.h"
 #include "States/InputState.h"
+#include "DEFINITIONS.h"
 
 namespace lm{
     App::App(int width, int height, std::string title) {
+
+        _data->assets.LoadFont("Gilroy Font", GILROY_FONT_PATH);
         _data->window.create(sf::VideoMode(width,height),title, sf::Style::Close | sf::Style::Titlebar);
 
-        _data->machine.AddState(StateRef (new MainMenuState(this->_data)),true);
+        _data->machine.AddState(StateRef (new MainMenuState(this->_data)),false);
 
         this->Run();
     }
@@ -37,7 +39,7 @@ namespace lm{
 
             while(accumulator >= dt){
                 this->_data->machine.GetActiveState()->HandleInput();
-                this->_data->machine.GetActiveState()->Update(dt);
+                this->_data->machine.GetActiveState()->Update();
 
                 accumulator -= dt;
             }

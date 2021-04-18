@@ -8,7 +8,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/SFMLTutor.dir/UI/Managers/StateMachine.cpp.o"
   "CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.o"
   "CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o"
-  "CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o"
   "CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.o"
   "CMakeFiles/SFMLTutor.dir/main.cpp.o"
   "SFMLTutor"

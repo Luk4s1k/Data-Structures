@@ -24,8 +24,6 @@ Managers/AssetManager.h
 Managers/InputManager.h
 /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/InputManager.h
 
-/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/DEFINITIONS.h
-
 /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/AssetManager.h
 map
 -
@@ -46,25 +44,23 @@ stack
 State.h
 /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/State.h
 
-/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.cpp
-MainMenuState.h
-/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.h
-sstream
--
-../DEFINITIONS.h
-/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/DEFINITIONS.h
-../States/TableMenuState.h
-/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.h
-iostream
--
-
-/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.h
+/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/InputState.h
 SFML/Graphics.hpp
 -
 ../Managers/State.h
 /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/Managers/State.h
 ../App.h
 /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/App.h
+
+/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.cpp
+TableMenuState.h
+/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.h
+iostream
+-
+../States/InputState.h
+/Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/InputState.h
+sstream
+-
 
 /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.h
 ../Managers/State.h

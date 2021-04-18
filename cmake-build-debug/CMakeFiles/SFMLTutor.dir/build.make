@@ -142,22 +142,9 @@ CMakeFiles/SFMLTutor.dir/UI/App.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFMLTutor.dir/UI/App.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/App.cpp -o CMakeFiles/SFMLTutor.dir/UI/App.cpp.s
 
-CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o: CMakeFiles/SFMLTutor.dir/flags.make
-CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o: ../UI/States/SplashState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o -c /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.cpp
-
-CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.cpp > CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.i
-
-CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/SplashState.cpp -o CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.s
-
 CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o: CMakeFiles/SFMLTutor.dir/flags.make
 CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o: ../UI/States/MainMenuState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o -c /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/MainMenuState.cpp
 
 CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.i: cmake_force
@@ -170,7 +157,7 @@ CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.s: cmake_force
 
 CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.o: CMakeFiles/SFMLTutor.dir/flags.make
 CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.o: ../Structures/Table/Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.o -c /Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/Table/Array.cpp
 
 CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.i: cmake_force
@@ -183,7 +170,7 @@ CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.s: cmake_force
 
 CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.o: CMakeFiles/SFMLTutor.dir/flags.make
 CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.o: ../Structures/List/List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.o -c /Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/List/List.cpp
 
 CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.i: cmake_force
@@ -196,7 +183,7 @@ CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.s: cmake_force
 
 CMakeFiles/SFMLTutor.dir/Structures/Heap/Heap.cpp.o: CMakeFiles/SFMLTutor.dir/flags.make
 CMakeFiles/SFMLTutor.dir/Structures/Heap/Heap.cpp.o: ../Structures/Heap/Heap.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SFMLTutor.dir/Structures/Heap/Heap.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/SFMLTutor.dir/Structures/Heap/Heap.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SFMLTutor.dir/Structures/Heap/Heap.cpp.o -c /Users/lukamitrovic/CLionProjects/SDiZO_1/Structures/Heap/Heap.cpp
 
 CMakeFiles/SFMLTutor.dir/Structures/Heap/Heap.cpp.i: cmake_force
@@ -209,7 +196,7 @@ CMakeFiles/SFMLTutor.dir/Structures/Heap/Heap.cpp.s: cmake_force
 
 CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.o: CMakeFiles/SFMLTutor.dir/flags.make
 CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.o: ../UI/States/TableMenuState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.o -c /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/TableMenuState.cpp
 
 CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.i: cmake_force
@@ -222,7 +209,7 @@ CMakeFiles/SFMLTutor.dir/UI/States/TableMenuState.cpp.s: cmake_force
 
 CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.o: CMakeFiles/SFMLTutor.dir/flags.make
 CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.o: ../UI/States/InputState.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.o -c /Users/lukamitrovic/CLionProjects/SDiZO_1/UI/States/InputState.cpp
 
 CMakeFiles/SFMLTutor.dir/UI/States/InputState.cpp.i: cmake_force
@@ -240,7 +227,6 @@ SFMLTutor_OBJECTS = \
 "CMakeFiles/SFMLTutor.dir/UI/Managers/AssetManager.cpp.o" \
 "CMakeFiles/SFMLTutor.dir/UI/Managers/InputManager.cpp.o" \
 "CMakeFiles/SFMLTutor.dir/UI/App.cpp.o" \
-"CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o" \
 "CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o" \
 "CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.o" \
 "CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.o" \
@@ -256,7 +242,6 @@ SFMLTutor: CMakeFiles/SFMLTutor.dir/UI/Managers/StateMachine.cpp.o
 SFMLTutor: CMakeFiles/SFMLTutor.dir/UI/Managers/AssetManager.cpp.o
 SFMLTutor: CMakeFiles/SFMLTutor.dir/UI/Managers/InputManager.cpp.o
 SFMLTutor: CMakeFiles/SFMLTutor.dir/UI/App.cpp.o
-SFMLTutor: CMakeFiles/SFMLTutor.dir/UI/States/SplashState.cpp.o
 SFMLTutor: CMakeFiles/SFMLTutor.dir/UI/States/MainMenuState.cpp.o
 SFMLTutor: CMakeFiles/SFMLTutor.dir/Structures/Table/Array.cpp.o
 SFMLTutor: CMakeFiles/SFMLTutor.dir/Structures/List/List.cpp.o
@@ -270,7 +255,7 @@ SFMLTutor: /usr/local/lib/libsfml-graphics.dylib
 SFMLTutor: /usr/local/lib/libsfml-network.dylib
 SFMLTutor: /usr/local/lib/libsfml-audio.dylib
 SFMLTutor: CMakeFiles/SFMLTutor.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable SFMLTutor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/lukamitrovic/CLionProjects/SDiZO_1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable SFMLTutor"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SFMLTutor.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

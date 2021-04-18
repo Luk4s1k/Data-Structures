@@ -92,12 +92,25 @@ int &Array::operator[](int value)const {
     return array[value];
 }
 
-std::string Array::outPutString() const {
+std::string Array::outPutString() {
     std::string outString = "";
     for (int i = 0; i < this->size; ++i){
-        outString += this->array[i];
+        outString += std::to_string(this->array[i]) + " ";
     }
-    return std::string();
+    std::cout << "Out Stream : " << outString <<  std::endl;
+    return outString;
+}
+
+void Array::pop_back() {
+
+}
+
+void Array::pop_front() {
+
+}
+
+void Array::pop() {
+
 }
 
 //bool Array::operator==(const Array &newInstance) const{

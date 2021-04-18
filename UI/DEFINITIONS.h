@@ -8,9 +8,10 @@
 #define SCREEN_WIDTH  1130
 #define SCREEN_HEIGHT 600
 
-#define SPLASH_SCREEN_WIDTH
-#define SPLASH_STATE_SHOW_TIME 1
-#define SPLASH_SCENE_BACKGROUND "/Users/lukamitrovic/Desktop/backgifC.png"
+#define GILROY_FONT_PATH "UI/Resourses/Fonts/Gilroy-Bold.pfb"
+#define OK_BUTTON_PATH "UI/Resourses/Buttons/OK_BIG.png"
+#define CANCEL_BUTTON_PATH "UI/Resourses/Buttons/CANCEL_BIG.png"
+
 
 
 #endif //SFMLTUTOR_DEFINITIONS_H
